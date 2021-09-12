@@ -1,4 +1,4 @@
 # IRSEG
-emnlp2021-Improving Graph-based Sentence Ordering with Iteratively Predicted Pairwise Orderings
+codes for "Improving Graph-based Sentence Ordering with Iteratively Predicted Pairwise Orderings"(EMNLP2021)
 
-we are removing some codes making no senses.
+
